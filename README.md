@@ -27,7 +27,7 @@ ui_strings.h            # Display text constants
 
 ## Demo Video  
 IEEE SSCS Arduino Contest Submission  
-YouTube: `https://www.youtube.com/your-video-link` [(youtube.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fwww.youtube.com%2Fyour-video-link")
+YouTube: `[https://www.youtube.com/your-video-link](https://www.youtube.com/watch?v=au9m7T2P-hg&pp=0gcJCRoMAYcqIYzv)`
 
 ## How to Run  
 1. Install Arduino IDE  
